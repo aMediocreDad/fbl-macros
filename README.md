@@ -5,6 +5,8 @@ A FoundryVTT module for the Forbidden Lands system. This module presents macros,
 
 Manifest URL: `https://raw.githubusercontent.com/iAmbrosius/fbl-macros/master/fbl-macros/module.json`
 
+The macros in this module depends on a few other modules to function as expected. The icons used for the macros are fetched from the [Game-icons.net module](https://foundryvtt.com/packages/game-icons-net/). It is advised you install this module, else you will have a few broken image links.
+
 ## Macros
 This module contains the following macros:
 

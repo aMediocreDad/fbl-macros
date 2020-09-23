@@ -7,6 +7,9 @@ Manifest URL: `https://raw.githubusercontent.com/iAmbrosius/fbl-macros/master/fb
 
 The macros in this module depends on a few other modules to function as expected. The icons used for the macros are fetched from the [Game-icons.net module](https://foundryvtt.com/packages/game-icons-net/). It is advised you install this module, else you will have a few broken image links.
 
+## Wiki
+The [wiki](https://github.com/iAmbrosius/fbl-macros/wiki) explains how to add some visual improvements, as well as configure the macros.
+
 ## Macros
 This module contains the following macros:
 
@@ -22,6 +25,3 @@ This module contains the following macros:
 * **Mental Horror** - Rolls mental horror, see [wiki](https://github.com/iAmbrosius/fbl-macros/wiki/Macros-How-To#mental-horror) for setup.
 * **Snow** - a weather macro you need the [FXMaster module](https://foundryvtt.com/packages/fxmaster/) installed for it to work.
 * **Topdown Rain** - a weather macro you need the [FXMaster module](https://foundryvtt.com/packages/fxmaster/) installed for it to work.
-
-## Wiki
-The [wiki](https://github.com/iAmbrosius/fbl-macros/wiki/Macros-How-To) explains how to set up the macros. At the moment it is work in progress.

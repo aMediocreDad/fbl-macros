@@ -1,5 +1,6 @@
 # Forbidden Lands Macros
 A FoundryVTT module for the Forbidden Lands system. This module presents macros, and other QOL and visual improvements to the system.
+![example screenshot of module](https://github.com/iAmbrosius/fbl-macros/blob/master/wikiassets/modded.png)
 
 ## Installation
 
